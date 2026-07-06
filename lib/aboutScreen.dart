@@ -8,7 +8,7 @@ class AboutScreen extends StatelessWidget {
   const AboutScreen({super.key});
 
   static const String _driveLink =
-      'https://drive.google.com/drive/folders/1GDj2XeAvfHTyRsNhI8U6DDPAlVaf5sgd?usp=drive_link';
+      'https://drive.google.com/drive/u/0/folders/1nneWytoYmYQyrO_QWShrvUQWitYuZZNi';
 
   // ─── Show QR Modal ───
 
